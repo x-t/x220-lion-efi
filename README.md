@@ -5,7 +5,7 @@ Running OS X 10.7 on the X220
 10.7/10
 
 ## Installation
-Make the media GPT, install the thing, that's it
+Make the media GPT, install the thing, that's it.
 
 ## Post-installation
 Nothing.
@@ -19,4 +19,4 @@ Sure thing.
 Yes.
 
 ## Any issues?
-Surprisingly little. Honestly, Lion itself is more of a pain in the dick than the support for it, runs better than Catalina or Mojave.
+Booting up will most likely take 2-7 tries as kernel panics are random. After sleep, all USB drivers are disabled. Also battery sometimes works, sometimes doesn't.
